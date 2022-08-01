@@ -1,0 +1,32 @@
+.image {
+    object-fit: cover;
+    display:block;
+    margin:auto;
+}
+
+.carousel {
+    width: 100%;
+}
+
+.home{
+    height: 500px;
+    margin-top: 8px;
+}
+
+.staff {
+    width: 400px;
+    height: 400px;
+    margin-top: 8px;
+}
+
+.product {
+    width: 150px;
+    height: 150px;
+    margin-top: 8px;
+}
+
+.footer {
+    margin-top: 10%;
+    padding-bottom: 200px;
+    background-color: dimgray
+}
